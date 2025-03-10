@@ -1,0 +1,3 @@
+﻿  3_data_processing.cpp
+C:\Users\Trenj\source\repos\SUSU-C-8\3_data_processing\3_data_processing.cpp(33,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  3_data_processing.vcxproj -> C:\Users\Trenj\source\repos\SUSU-C-8\x64\Debug\3_data_processing.exe
